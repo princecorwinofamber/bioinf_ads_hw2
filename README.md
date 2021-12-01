@@ -25,3 +25,9 @@ __ambiguous 735108
 
 общее число чтений, соответствующих хотя бы одному гену равно:
 17825380 – 1332692 – 735108 = 15757580
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
