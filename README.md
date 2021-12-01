@@ -6,6 +6,10 @@ https://colab.research.google.com/drive/1cVuFvJgngze035Rv3kbLCzxhcp7IOAZ3?usp=sh
 
 ![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/percentages.png)
 
+![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/sequence_quality_histogram.png)
+
+![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/per_sequence_quality_scores.png)
+
 # SRR3414636  
 
 Тип образца: контроль
