@@ -1,12 +1,14 @@
 https://colab.research.google.com/drive/1cVuFvJgngze035Rv3kbLCzxhcp7IOAZ3?usp=sharing
 
+![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/general_statistics.png)
+
+![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/numbers_of_reads.png)
+
+![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/percentages.png)
+
 # SRR3414636  
 
 Тип образца: контроль
-
-![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/SRR3414636_1.png)
-
-![](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/SRR3414636_2.png)
 
 Количество уникально-картированных чтений: 17825380
 
