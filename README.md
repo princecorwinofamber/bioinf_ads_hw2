@@ -12,6 +12,8 @@ https://colab.research.google.com/drive/1cVuFvJgngze035Rv3kbLCzxhcp7IOAZ3?usp=sh
 
 ![f](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/per_sequence_gc_content.png)
 
+Качество чтений хорошее
+
 # SRR3414636  
 
 Тип образца: контроль
