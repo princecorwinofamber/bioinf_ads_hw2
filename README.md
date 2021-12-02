@@ -29,3 +29,15 @@ https://colab.research.google.com/drive/16GgUvonf0njgHq8IV5JuLlJlcqS1vuAn?usp=sh
 ![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/ma_plot.png)
 
 ![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/heat_map.png)
+
+Графики со значениями "Normalized counts" для 5 генов, которые наиболее значимо поменяли свою экспрессию:
+
+![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/gene_5409.png)
+
+![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/gene_265.png)
+
+![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/gene_7443.png)
+
+![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/gene_11796.png)
+
+![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/gene_17923.png)
