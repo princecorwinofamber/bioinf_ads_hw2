@@ -26,6 +26,9 @@ https://colab.research.google.com/drive/16GgUvonf0njgHq8IV5JuLlJlcqS1vuAn?usp=sh
 | SRR3414637  | контроль  | 20385570 | 19847291, 97.36% | 17844858, 87.54% | 15736978 |
 
 
+
+Применим improve_all_counts.py (скрипт из папки src)
+
 ![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/ma_plot.png)
 
 ![image not found](https://raw.githubusercontent.com/princecorwinofamber/bioinf_ads_hw3/main/heat_map.png)
